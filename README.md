@@ -1,15 +1,29 @@
 <!DOCTYPE html>
 <html>
 <head>
+  <title>Happy Mother's Day</title>
+  <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Pacifico">
+  <style>
+    h1 {
+      font-family: 'Pacifico', cursive;
+    }
+  </style>
 </head>
 <body>
   <h1>Happy Mother's Day, Jen!</h1>
 
-  <form>
-    <label for="letter">Happy mothers day jen i hope you have a great mothers day #best step mom ever🌸📷  </label><br>
+  <div>
+    <form>
+      <label for="letter">Happy Mother's Day, Jen! I hope you have a great Mother's Day. You're the best step mom ever! 🌸📷</label><br>
       <input type="submit" value="Submit">
-  </form>
+    </form>
+
+ ![Screenshot 2023-05-14 012820](https://github.com/landy123456/HAPPYMOTHERSDAYJEN/assets/132488888/0bbdbcc4-f1c7-4403-8b0e-16191512ee88)
+
+  </div>
 
 </body>
 </html>
+
+
 
