@@ -1,13 +1,12 @@
 <!DOCTYPE html>
 <html>
 <head>
-  <title>Happy Mother's Day</title>
 </head>
 <body>
   <h1>Happy Mother's Day, Jen!</h1>
 
   <form>
-    <label for="letter">Write a letter to your mother:</label><br>
+    <label for="letter">Happy mothers day jen i hope you have a great mothers day #best step mom ever🌸📷  </label><br>
       <input type="submit" value="Submit">
   </form>
 
