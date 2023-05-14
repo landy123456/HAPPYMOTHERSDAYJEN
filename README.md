@@ -1,16 +1,13 @@
 <!DOCTYPE html>
 <html>
 <head>
-  <title>Happy Mother's Day</title>
+  
   <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Pacifico">
-  <style>
-    h1 {
-      font-family: 'Pacifico', cursive;
-    }
-  </style>
+
 </head>
 <body>
   <h1>Happy Mother's Day, Jen!</h1>
+ 
 
   <div>
     <form>
@@ -19,6 +16,10 @@
     </form>
 
  ![Screenshot 2023-05-14 012820](https://github.com/landy123456/HAPPYMOTHERSDAYJEN/assets/132488888/0bbdbcc4-f1c7-4403-8b0e-16191512ee88)
+    <form>
+this is the only picture i had of us lol
+      <form>
+
 
   </div>
 
